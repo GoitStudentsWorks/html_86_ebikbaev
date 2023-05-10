@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Codex-team-project/",
+    "build": "vite build --base=/html_86_ebikbaev/",
     "preview": "vite preview"
   },
   "devDependencies": {
